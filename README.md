@@ -1,5 +1,6 @@
 ### Hi there 👋
-![image](https://github.com/Nishthayadava/Nishthayadava/assets/95894895/d001e089-6bbf-4ff1-a68b-4a610130f441)
+![code](https://github.com/Nishthayadava/Nishthayadava/assets/95894895/4fe6a8ed-5813-409f-8237-5a3a78940ebb)
+
 
 I'm Nishtha Yadav, a passionate self-taught full-stack web developer and a freelance software engineer from India.
 My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, 
