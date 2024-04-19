@@ -6,7 +6,7 @@ and I love how collaboration and knowledge sharing happened through open-source.
 <!--
 **Nishthayadava/Nishthayadava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![image](https://github.com/Nishthayadava/Nishthayadava/assets/95894895/7867a07a-44fb-4b8b-8b16-044f1c1ea688)
-![image](https://github.com/Nishthayadava/Nishthayadava/assets/95894895/73ad2c45-51bf-4fbc-8f6e-aa868c20a5c4)
+![image](mailto:nishtha0310yadava@gmail.com)
+![image](https://github.com/Nishthayadava/Nishthayadava/www.linkedin.com/in/nishtha-yadav-ab66001b0)
 ![image](https://github.com/Nishthayadava/Nishthayadava/assets/95894895/41acbe6a-87bc-4e65-99c2-0e61d14f6115)
 
